@@ -19,7 +19,7 @@
 - 🔭 Strong expertise in **Node.js**, **React**, **TailwindCSS**, and **Cloud platforms**.  
 - 🤖 Currently exploring **Machine Learning, Deep Learning & Generative AI**.  
 - 🎓 **AIR 2899 (GATE 2022)** with score 508.  
-- 🌍 Aspiring for a **Master’s in Artificial Intelligence (Germany, Winter 2025 intake)**.  
+- 🌍 Aspiring for a **Master’s in Web & Data Science from University of Koblenz (Germany, Winter 2025 intake)**.  
 - 📫 Reach me: **manishchavan80@gmail.com**
 
 ---
